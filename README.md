@@ -53,7 +53,7 @@ AI_Photo_Editor/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/AI_Photo_Editor.git
+   git clone https://github.com/stecavalli/AI_Photo_Editor.git
    cd AI_Photo_Editor
    ```
 
