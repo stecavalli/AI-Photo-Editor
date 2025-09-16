@@ -84,7 +84,7 @@ AI_Photo_Editor/
 ---
 
 ## 🖼️ Preview
-![App Screenshot](./screenshot.png)`)
+<img src="https://github.com/stecavalli/AI-Photo-Editor/blob/master/screenshot.png" alt="screenshot" width="400">
   
 ---
 
