@@ -1,0 +1,2 @@
+# AI-Photo-Editor
+An intuitive web application that leverages the Nano Banana (gemini-2.5-flash-image-preview) model to perform powerful AI-driven edits on your photos.
