@@ -101,3 +101,14 @@ Feel free to use, modify, and distribute this project.
 ## 👤 Author
 Developed by [Stefano Cavalli](https://github.com/stecavalli).  
 Contributions, issues, and feature requests are welcome!  
+
+## 📢 Share this project
+
+Help spread the word about **AI Photo Editor**
+
+[![Share on Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/stecavalli/AI-Photo-Editor)
+
+[![Share on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/stecavalli/AI-Photo-Editor)
+
+[![Copy Link](https://img.shields.io/badge/Copy%20Link-000000?logo=link&logoColor=white)](https://github.com/stecavalli/AI-Photo-Editor)
+
