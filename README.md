@@ -81,7 +81,7 @@ AI_Photo_Editor/
 ---
 
 ## 🖼️ Preview
-<img src="https://github.com/stecavalli/AI-Photo-Editor/blob/master/screenshot.png" alt="screenshot" width="400">
+<img src="https://github.com/stecavalli/AI-Photo-Editor/blob/master/screenshot.png" alt="screenshot" width="600">
   
 ---
 
