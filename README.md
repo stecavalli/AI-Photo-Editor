@@ -4,8 +4,12 @@ An **AI-powered photo editor** built with **React**, **TypeScript**, and **Vite*
 This application allows users to upload, process, and edit images using AI services.  
 
 ## 📊 Status
-![Build](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/ci.yml/badge.svg)
-![Tests](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/tests.yml/badge.svg)
+
+[![Build](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/ci.yml/badge.svg)](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/ci.yml)
+[![Tests](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/tests.yml/badge.svg)](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/tests.yml)
+[![Release](https://img.shields.io/github/v/release/stecavalli/AI_Photo_Editor?logo=github)](https://github.com/stecavalli/AI_Photo_Editor/releases)
+
+
 ---
 
 ## 🚀 Features
