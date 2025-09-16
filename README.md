@@ -99,5 +99,5 @@ Feel free to use, modify, and distribute this project.
 ---
 
 ## 👤 Author
-Developed by Stefano Cavalli.  
+Developed by [Stefano Cavalli](https://github.com/stecavalli).  
 Contributions, issues, and feature requests are welcome!  
