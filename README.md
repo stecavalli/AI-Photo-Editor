@@ -108,8 +108,6 @@ Help spread the word about **AI Photo Editor**
 
 [![Share on Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/stecavalli/AI-Photo-Editor)
 
-[![Share on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/stecavalli/AI-Photo-Editor)
-
 Copy and share the following link: https://github.com/stecavalli/AI-Photo-Editor
 
 
