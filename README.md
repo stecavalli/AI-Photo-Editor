@@ -5,9 +5,9 @@ This application allows users to upload, process, and edit images using AI servi
 
 ## 📊 Status
 
-[![Build](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/ci.yml/badge.svg)](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/ci.yml)
-[![Tests](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/tests.yml/badge.svg)](https://github.com/stecavalli/AI_Photo_Editor/actions/workflows/tests.yml)
-[![Release](https://img.shields.io/github/v/release/stecavalli/AI_Photo_Editor?logo=github)](https://github.com/stecavalli/AI_Photo_Editor/releases)
+[![Build](https://github.com/stecavalli/AI-Photo-Editor/actions/workflows/ci.yml/badge.svg)](https://github.com/stecavalli/AI-Photo-Editor/actions/workflows/ci.yml)
+[![Tests](https://github.com/stecavalli/AI-Photo-Editor/actions/workflows/tests.yml/badge.svg)](https://github.com/stecavalli/AI-Photo-Editor/actions/workflows/tests.yml)
+[![Release](https://img.shields.io/github/v/release/stecavalli/AI-Photo-Editor?logo=github)](https://github.com/stecavalli/AI-Photo-Editor/releases)
 
 
 ---
