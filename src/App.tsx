@@ -114,7 +114,7 @@ const App: React.FC = () => {
       </header>
 
       <main className="w-full max-w-7xl flex-grow grid grid-cols-1 lg:grid-cols-2 gap-8">
-        {/* Left Column: Controls & Original Image */}
+        
         <div className="flex flex-col gap-6 bg-gray-800/40 p-6 rounded-xl border border-gray-700">
           <div className="flex-grow flex flex-col items-center justify-center">
             {originalImage ? (
@@ -174,3 +174,4 @@ const App: React.FC = () => {
 };
 
 export default App;
+
